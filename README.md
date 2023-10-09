@@ -31,7 +31,12 @@
 - Elimizdeki veri: [ ["123123","asd123","kt65",13,56], ["123123","asd123","kt65",13,56], ["123123","asd123","kt65",13,56], ]
 - Elde Etmek İsteğim: [ { id:"123123" code: "asd123" lat:13, lan: 56 }, { id:"123123" code: "asd123" lat:13, lan: 56 }, ]
 
+### 'Deploy'
+
+https://amazing-daifuku-7da670.netlify.app
+
 ### 'Screen'
 
 ![](radar.gif)
+
 # radar-toolkit
